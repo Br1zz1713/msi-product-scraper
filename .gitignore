@@ -1,0 +1,13 @@
+node_modules/
+.vscode/
+.idea/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Local debug files
+page_dump.html
+task_description.txt
+test_fetch.js
+output/screenshot.png
